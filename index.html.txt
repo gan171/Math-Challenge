@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Math Challenge has Moved!</title>
+    <meta http-equiv="refresh" content="0; url='https://ganesh-math-matrix.vercel.app/'" />
+  </head>
+  <body>
+    <p>
+      This game has moved to a new address. If you are not redirected automatically,
+      <a href="https://therepeaterscalculation.vercel.app//">click here</a>.
+    </p>
+  </body>
+</html>
